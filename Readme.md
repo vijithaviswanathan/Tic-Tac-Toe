@@ -1,0 +1,1 @@
+This classic game is played on a 3x3 grid where two players take turns marking spaces until one achieves a row, column, or diagonal of their symbol ('X' or 'O'). The first player to achieve this goal wins the game. If all spaces are marked and no player has won, the game ends in a draw.
